@@ -3,3 +3,7 @@
 body {
   background-color: aliceblue;
 }
+
+.weather-app {
+  margin: 0 20px;
+}
